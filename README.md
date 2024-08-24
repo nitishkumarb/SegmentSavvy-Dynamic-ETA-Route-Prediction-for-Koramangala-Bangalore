@@ -1,0 +1,2 @@
+# SegmentSavvy-Dynamic-ETA-Route-Prediction-for-Koramangala-Bangalore
+SegmentSavvy is a machine learning project that enhances ETA (Estimated Time of Arrival) and route prediction in Bangalore. The project focuses on dividing the city’s core areas, such as Koramangala and Indira Nagar, into smaller road segments. This approach allows for precise, real-time predictions that adapt as users move through the city
